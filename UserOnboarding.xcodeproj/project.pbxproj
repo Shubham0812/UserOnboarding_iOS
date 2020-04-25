@@ -27,6 +27,7 @@
 		51E8AE49245444190057CA70 /* animation3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = animation3.json; path = ../../../../Downloads/animation3.json; sourceTree = "<group>"; };
 		51E8AE4A245444190057CA70 /* animation1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = animation1.json; path = ../../../../Downloads/animation1.json; sourceTree = "<group>"; };
 		51E8AE4B245444190057CA70 /* animation2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = animation2.json; path = ../../../../Downloads/animation2.json; sourceTree = "<group>"; };
+		51E8AE4F24547E710057CA70 /* Lottie.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Lottie.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		51EA9325245327740016FD57 /* UserOnboarding.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UserOnboarding.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		51EA9328245327740016FD57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		51EA932A245327750016FD57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -109,6 +110,7 @@
 		E26EB6CAD6E0297214B95641 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				51E8AE4F24547E710057CA70 /* Lottie.framework */,
 				7576D4D8E12BECE1C22B6DE4 /* Pods_UserOnboarding.framework */,
 			);
 			name = Frameworks;
